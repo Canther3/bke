@@ -64,3 +64,5 @@ Bu web uygulaması, kullanıcıların sağlık ölçümlerini hesaplayabilecekle
 
 ---
 Bu proje, modern web teknolojilerini kullanarak kullanıcılara pratik ve kullanışlı araçlar sunmayı amaçlamaktadır. Sürekli güncellenen yapısı ve kullanıcı geri bildirimleri ile gelişmeye devam edecektir.
+
+by [Canther3](https://github.com/Canther3)
